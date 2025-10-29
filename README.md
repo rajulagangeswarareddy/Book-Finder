@@ -25,8 +25,8 @@ A React-based web application that allows users to search for books using the Op
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/rajulagangeswarareddy/book-finder-app.git
-   cd book-finder-app
+   git clone https://github.com/rajulagangeswarareddy/Book-Finder.git
+   cd Book-Finder
    ```
 
 2. Open index.html in your browser:
