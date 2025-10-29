@@ -2,6 +2,10 @@
 
 A React-based web application that allows users to search for books using the Open Library API. Users can search for books by title or author and browse through paginated results.
 
+## 🌐 Live Demo
+
+Try the application live at: [Book Finder App on CodeSandbox](https://codesandbox.io/p/github/rajulagangeswarareddy/Book-Finder)
+
 ## 🚀 Features
 
 - Search books by title or author
