@@ -1,6 +1,6 @@
 // BookCard component
 const BookCard = ({ book }) => {
-  const placeholder = '/src/assets/placeholder.png';
+  const placeholder = 'src/assets/placeholder.png';
   const cover = book.cover_i
     ? `https://covers.openlibrary.org/b/id/${book.cover_i}-M.jpg`
     : placeholder;
